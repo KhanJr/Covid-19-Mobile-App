@@ -5,20 +5,34 @@
 * [Setup](#setup)
 
 ## General info
-In this 
+This is a complete Android/IOS app to give information about total Covid-19 casses in india and in indian states.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Flutter
+* Dart
 	
 ## Setup
-To run this project, install it locally using npm:
+To use this projects assets and programmed files i request you to use pull request let. I have include only the lib and assets folder and pubspec.yml file so that you know which libraries i have used.
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+Please download the file and setup accordingly got to the Covid-19-Mobile-App directory and perform following task.
+Before this you should have created a flutter project and setup all needs.
+Copy the lib and aseets in your project here is the setup for linux(Ubuntu 18.04)
+$ cp /lib/  /to/your/desired/folder/
+$ cp /assets/ /to/your/desired/folder/
 ```
-<img src="https://github.com/khanjr/.ico" width="48">
+### Main Menu
+![Main Menu](./images/mainmenu.jpeg "Main Menu")
+
+### State List
+![Alt Text](./images/listofstates.jpeg "List of States")
+
+### State Info
+![Alt Text](./images/statedetail.jpeg "State Details")
+
+### Preventions
+![Alt Text](./images/prevention.jpeg "Prevention")
+
+### Symptoms
+![Alt Text](./images/symptoms.jpeg "Symptoms")
