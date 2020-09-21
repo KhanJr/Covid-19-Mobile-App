@@ -1,4 +1,4 @@
-# Covid-19-Mobile-App
+# Covid-19 Mobile-App
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
