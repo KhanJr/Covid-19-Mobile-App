@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Project Demo](#project-demo)
 
 ## General info
 This is a complete Android/IOS app to give information about total Covid-19 casses in india and in indian states.
@@ -22,6 +23,7 @@ Copy the lib and aseets in your project here is the setup for linux(Ubuntu 18.04
 $ cp /lib/  /to/your/desired/folder/
 $ cp /assets/ /to/your/desired/folder/
 ```
+### Project Demo
 ### Main Menu
 ![Main Menu](./images/mainmenu.jpeg "Main Menu")
 
