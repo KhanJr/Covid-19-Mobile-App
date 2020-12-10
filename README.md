@@ -24,6 +24,10 @@ $ cp /lib/  /to/your/desired/folder/
 $ cp /assets/ /to/your/desired/folder/
 ```
 ### Project Demo
+
+## Download the app 
+https://drive.google.com/file/d/1qjR6YSKsLx3lvOtC4mlA5mDbhAm0aGCu/view?usp=sharing
+
 ### Main Menu
 ![Main Menu](./images/mainmenu.jpeg "Main Menu")
 
